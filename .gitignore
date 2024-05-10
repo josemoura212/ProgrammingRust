@@ -1,0 +1,40 @@
+# Arquivos gerados pelo compilador Rust
+*/target/
+
+# Arquivos de dependências gerados pelo Cargo
+*Cargo.lock
+*Cargo.toml.orig
+
+# Arquivos de documentação gerados pelo Cargo
+*/doc/
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*~
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de build do Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Arquivos de build do Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# Arquivos de build do IntelliJ
+*.iml
+*.ipr
+*.iws
+
+# Arquivos de build do Eclipse
+.classpath
+.project
+.settings/
+bin/
